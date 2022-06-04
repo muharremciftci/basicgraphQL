@@ -1,0 +1,28 @@
+{
+  "personeller": [
+    {
+      "id": "1",
+      "isim": "muharrem",
+      "yas": 30,
+      "email": "muharrem@google.com"
+    },
+    {
+      "id": "2",
+      "isim": "muharrem2",
+      "yas": 30,
+      "email": "muharrem@google.com"
+    },
+    {
+      "id": "3",
+      "isim": "muharrem3",
+      "yas": 30,
+      "email": "muharrem@google.com"
+    },
+    {
+      "isim": "muharrem36",
+      "email": "muharrem34",
+      "yas": 28,
+      "id": "GfzFKd1"
+    }
+  ]
+}
